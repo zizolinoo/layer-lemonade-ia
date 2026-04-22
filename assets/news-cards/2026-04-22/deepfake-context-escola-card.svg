@@ -1,0 +1,20 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1020"/>
+      <stop offset="100%" stop-color="#351649"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="80" y="100" width="920" height="1720" rx="40" fill="#fff6ff" opacity="0.97"/>
+  <text x="140" y="260" fill="#8a4db2" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">CONTEXTO REAL</text>
+  <text x="140" y="420" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="800">DEEPFAKE</text>
+  <text x="140" y="535" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="800">NAO PARA</text>
+  <text x="140" y="650" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="96" font-weight="800">EM HOLLYWOOD</text>
+  <text x="140" y="860" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500">O tema ja encosta em escola,</text>
+  <text x="140" y="940" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500">assedio, reputacao e vida real.</text>
+  <text x="140" y="1020" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500">Nao e assunto distante.</text>
+  <line x1="140" y1="1140" x2="860" y2="1140" stroke="#d8b7eb" stroke-width="6"/>
+  <text x="140" y="1280" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Plataforma reage</text>
+  <text x="140" y="1360" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">porque o risco ja e social.</text>
+</svg>

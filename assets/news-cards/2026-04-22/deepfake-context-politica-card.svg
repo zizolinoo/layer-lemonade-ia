@@ -1,0 +1,20 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1320"/>
+      <stop offset="100%" stop-color="#17263b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1080" height="1920" fill="url(#bg)"/>
+  <rect x="80" y="100" width="920" height="1720" rx="40" fill="#f4f8ff" opacity="0.97"/>
+  <text x="140" y="260" fill="#3665a7" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700">CONTEXTO REAL</text>
+  <text x="140" y="420" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="98" font-weight="800">VIDEO FALSO</text>
+  <text x="140" y="535" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="98" font-weight="800">MEXE COM</text>
+  <text x="140" y="650" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="98" font-weight="800">CONFIANCA</text>
+  <text x="140" y="860" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500">Em politica, noticia ou crise,</text>
+  <text x="140" y="940" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500">o problema nao e so criar.</text>
+  <text x="140" y="1020" fill="#333333" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="500">E provar o que e real.</text>
+  <line x1="140" y1="1140" x2="860" y2="1140" stroke="#b8c8e4" stroke-width="6"/>
+  <text x="140" y="1280" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">A crise e de confianca.</text>
+  <text x="140" y="1360" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Nao so de tecnologia.</text>
+</svg>
