@@ -1,10 +1,12 @@
 # Docs
 
-Esta pasta concentra a documentacao viva da Layer Lemonade IA.
+Base de contexto e orientacao editorial do projeto.
 
-## Sugestao de uso
+## Arquivos principais
 
+- `contexto-layer-lemonade.md`
+  Panorama do canal e referencias publicas uteis.
 - `persona-e-contexto.md`
-  Quem e a Layer Lemonade IA, como pensa e que tipo de criacao sustenta.
-- futuros arquivos
-  Briefings, principios, referencias, glossario e notas estrategicas.
+  Identidade operacional da Layer Lemonade IA.
+- `linha-editorial.md`
+  Tom, angulos, limites e criterio de relevancia.

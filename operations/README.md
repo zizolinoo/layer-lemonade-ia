@@ -1,10 +1,10 @@
 # Operations
 
-Esta pasta organiza a parte operacional do repositorio.
+Pasta de rotina para manter o sistema vivo e util.
 
-## Sugestao de uso
+## Arquivos principais
 
-- `checklist-inicial.md`
-  Rotina curta para manter ordem, clareza e sincronizacao.
-- futuros arquivos
-  Processos, protocolos, playbooks e logs operacionais.
+- `workflow-de-conteudo.md`
+  Sequencia simples do trabalho, da pesquisa ao roteiro.
+- `checklist-de-atualizacao.md`
+  Lista curta para manter a base confiavel e atual.
