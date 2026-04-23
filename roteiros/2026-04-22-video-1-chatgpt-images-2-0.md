@@ -1,79 +1,79 @@
-# Video 1 - ChatGPT Images 2.0 virou ferramenta de trabalho
+# Video 1 - ChatGPT Images 2.0 com mini tutorial embutido
 
 ## Angulo
 
-A noticia nao e so que a OpenAI lancou um modelo novo. A noticia e que a IA de imagem esta ficando util para trabalho real de criador.
+A noticia so vira boa pauta se mostrar uso pratico. Aqui o foco e provar em pouco tempo que o GPT Images 2.0 serve para trabalho real, nao so para brincar de prompt.
 
 ## Hook
 
-"A IA de imagem acabou de sair do brinquedo e entrar no trabalho real."
+"O ChatGPT Images 2.0 nao ficou so mais bonito. Ele ficou mais util."
 
 ## Estrutura em 3 pontos
 
-1. A OpenAI lancou o ChatGPT Images 2.0 em 21 de abril.
-2. O salto mais importante e texto legivel, layout e peca util, nao so imagem bonita.
-3. Isso encosta na rotina de quem faz thumb, storyboard, anuncio, slide e conteudo de curso.
+1. A OpenAI lançou o Images 2.0 e o salto forte está em texto, layout e controle.
+2. Isso serve para pelo menos dois usos imediatos de criador.
+3. O valor real está em acelerar etapas de trabalho visual, não só gerar uma imagem solta.
 
-## Roteiro simples
+## Prints principais
 
-### 0s-8s
+- `assets/news-prints/2026-04-22/openai-images-2-0-mobile-full.png`
 
-Fala:
-"A OpenAI lançou o ChatGPT Images 2.0, mas a notícia não é só imagem mais bonita. É imagem mais útil."
+## Timeline de montagem
 
-Tela:
-`IA de imagem ficou util`
+1. `0:00-0:05`
+A-roll em `V1`.
+Fala: "O ChatGPT Images 2.0 acabou de chegar e a parte mais forte nao e beleza. E utilidade."
+Texto em `V4`: `ficou util`
 
-Card:
-- `assets/news-cards/2026-04-22/openai-images-2-0-card-9x16.png`
+2. `0:05-0:12`
+Entrar print da OpenAI em `V3` com crop no titulo e data.
+Fala: "Ele ficou melhor para imagem com texto, layout e peca que parece trabalho de verdade."
+Texto em `V4`: `texto + layout + controle`
 
-### 8s-28s
+3. `0:12-0:27`
+Voltar para A-roll.
+Fala: "Exemplo um: thumbnail ou cartaz rapido para um video ou aula. Voce descreve titulo, hierarquia e clima visual numa prompt so."
+Texto em `V4`: `cenario 1`
+Texto em `V4`: `thumb / cartaz`
 
-Fala:
-"O ponto forte aqui é texto pequeno mais legível, peça com layout melhor e mais controle para fazer material que parece trabalho de verdade, não só teste de prompt."
+4. `0:27-0:39`
+Continuar em A-roll com punch-in curto em `V2`.
+Fala: "Exemplo dois: storyboard ou slide de apresentacao. Em vez de ficar caçando referencia solta, voce pede quadro, texto e composicao no mesmo lugar."
+Texto em `V4`: `cenario 2`
+Texto em `V4`: `storyboard / slide`
 
-Tela:
-`texto + layout + controle`
+5. `0:39-0:55`
+Print da OpenAI de novo em `V3`, agora com pan vertical leve.
+Fala: "Esse e o mini tutorial escondido aqui: separe o pedido em assunto, composicao e texto. Nao peça so uma imagem bonita."
+Texto em `V4`: `assunto`
+Texto em `V4`: `composicao`
+Texto em `V4`: `texto`
 
-Card:
-- `assets/news-cards/2026-04-22/openai-images-2-0-card-9x16.png`
+6. `0:55-1:07`
+A-roll.
+Fala: "Na vida real isso mexe com quem faz thumb, material de curso, pitch, anuncio e apresentacao quase todo dia."
+Texto em `V4`: `trabalho real`
 
-### 28s-50s
+7. `1:07-1:10`
+Fecho em A-roll.
+Fala: "A corrida agora nao e so sobre arte. E sobre fluxo."
+Texto em `V4`: `nao e so arte`
 
-Fala:
-"Na prática, isso mexe com a vida de quem cria conteúdo. Thumb, referência visual, cartaz, storyboard, material de aula, anúncio, capa de carrossel."
+## Prompt de exemplo para citar no video
 
-Tela:
-`thumb`
-`storyboard`
-`material de aula`
+### Cenario 1
 
-Card:
-- repetir o card da noticia com crop aproximando titulo e data
+`Crie um poster vertical para um video educacional sobre IA para video. Titulo grande no topo: "IA para video sem hype". Subtitulo menor: "Ferramentas que realmente importam". Estetica limpa, alto contraste, visual editorial, tipografia legivel, layout profissional.`
 
-### 50s-66s
+### Cenario 2
 
-Fala:
-"Ou seja: a corrida agora não é só sobre quem gera a arte mais bonita. É sobre quem resolve mais partes do trabalho."
+`Crie um frame de storyboard para um video de YouTube sobre criacao com IA. Apresentador em primeiro plano, tela com interface de ferramenta de imagem ao fundo, anotacoes visuais discretas, composicao clara, ar de pre-producao profissional.`
 
-Tela:
-`nao e so arte`
-`e fluxo`
+## Linguagem
 
-### 66s-70s
-
-Fecho:
-"Pra criador, isso muda mais do que parece."
-
-## Montagem
-
-- entrar com sua fala direto, sem vinheta longa
-- usar o card da OpenAI em 2 ou 3 crops diferentes para parecer mais dinamico
-- alternar rosto, card e palavra grande na tela
-
-## Link com a realidade
-
-Conectar com o cotidiano de quem precisa publicar rapido, validar ideia visual, montar apresentacao e produzir material de curso sem travar em etapas demoradas.
+- descontraida sem parecer desleixada
+- tecnica sem virar demo longa
+- foco em exemplos concretos
 
 ## Fonte
 

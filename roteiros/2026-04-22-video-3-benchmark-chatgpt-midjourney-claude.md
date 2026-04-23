@@ -1,78 +1,83 @@
-# Video 3 - O benchmark real nao e so imagem bonita
+# Video 3 - Benchmark com plot twist: Midjourney ainda leva no look
+
+## Nota tecnica importante
+
+Claude nao gera fotos ou ilustracoes como Midjourney e GPT Images. Para manter o video honesto, ele entra como ferramenta de leitura critica e apoio de prompt, nao como renderizador de imagem.
+
+## Plano B se voce quiser 3 renderizadores de imagem
+
+Troque o Claude por Firefly ou Imagen sem mexer na espinha do video. A logica do plot twist continua funcionando.
 
 ## Angulo
 
-Em vez de fazer um benchmark tecnico pesado, o video compara o papel real de cada ferramenta no fluxo de criacao agora.
+O video e um comparativo rapido com humor: mesmo usando o mesmo prompt de referencia, o Midjourney ainda ganha no look final. O plot twist e que o Claude nao concorre na renderizacao, mas ajuda a explicar por que o Midjourney ganhou.
 
 ## Hook
 
-"O benchmark de 2026 não é só quem faz a imagem mais bonita. É quem resolve qual parte do trabalho."
+"Eu peguei uma imagem do Midjourney, joguei a mesma ideia no GPT Images e fui ver se o Claude entrava na briga. O plot twist? O Midjourney ainda ganhou."
 
 ## Estrutura em 3 pontos
 
-1. ChatGPT Images 2.0 entra forte para peca util, texto e layout.
-2. Midjourney continua muito forte para look, estilo e imagem com cara de key visual.
-3. Claude nem entra como gerador de imagem; ele entra melhor como cerebro de texto, pesquisa e roteiro.
+1. Partir de uma imagem-base criada no Midjourney.
+2. Levar a mesma descricao para o GPT Images 2.0.
+3. Usar o Claude como leitor do prompt e da diferenca de resultado, enquanto o Midjourney leva o trofeu do look.
 
-## Roteiro simples
+## Prints e telas principais
 
-### 0s-10s
+- `assets/news-prints/2026-04-22/midjourney-version-mobile-full.png`
+- `assets/news-prints/2026-04-22/openai-images-2-0-mobile-full.png`
+- `assets/news-prints/2026-04-22/claude-support-mobile-full.png`
 
-Fala:
-"Se você comparar ChatGPT Images, Midjourney e Claude como se fossem iguais, já começou errado."
+## Timeline de montagem
 
-Tela:
-`nao e a mesma corrida`
+1. `0:00-0:07`
+A-roll em `V1`.
+Fala: "Eu peguei uma imagem do Midjourney e tentei repetir a mesma ideia no GPT Images. E ainda fui ver se o Claude entrava nessa disputa."
+Texto em `V4`: `mesma ideia`
 
-### 10s-28s
+2. `0:07-0:18`
+Tela gravada ou print da imagem original do Midjourney em `V3`.
+Fala: "Primeiro, a referencia: Midjourney. Aqui a imagem ja chega com cara de peça, estilo e impacto."
+Texto em `V4`: `referencia original`
 
-Fala:
-"O ChatGPT Images 2.0 ganhou força onde muita gente trabalha de verdade: peça com texto, layout, referência visual e imagem útil."
+3. `0:18-0:31`
+Mostrar prompt na tela e em seguida o resultado do GPT Images em `V3`.
+Fala: "Depois, eu levei a mesma direcao para o GPT Images 2.0. Ele respondeu bem em organizacao, leitura e utilidade."
+Texto em `V4`: `GPT = utilidade`
 
-Tela:
-`utilidade`
+4. `0:31-0:42`
+A-roll com corte seco.
+Fala: "Aí vem a primeira curva: o Claude nao gera imagem desse jeito. O proprio suporte diz isso."
+Entrar print do suporte do Claude em `V3`.
+Texto em `V4`: `Claude nao renderiza imagem`
 
-Card:
-- `assets/news-cards/2026-04-22/openai-images-2-0-card-9x16.png`
+5. `0:42-0:57`
+A-roll com os tres resultados na tela ou split edit.
+Fala: "Entao o Claude entra como juiz chato e util: ele ajuda a ler o prompt, explicar o que funcionou e por que o Midjourney ainda entregou a imagem mais gostosa de olhar."
+Texto em `V4`: `Claude = leitura critica`
 
-### 28s-46s
+6. `0:57-1:07`
+A-roll em punch-in.
+Fala: "Plot twist final: o GPT ficou mais funcional, mas quem ganhou no look ainda foi o Midjourney. E eu falo isso com um pouco de dor e um pouco de humor."
+Texto em `V4`: `vencedor do look: Midjourney`
 
-Fala:
-"O Midjourney ainda pesa muito quando o assunto é look, estilo, impacto visual e imagem com cara de key art."
+7. `1:07-1:10`
+Fecho.
+Fala: "Resumo rapido: GPT ajuda no util, Midjourney ainda reina no visual, e Claude ajuda a pensar melhor."
 
-Tela:
-`look`
-`estilo`
-`key art`
+## Como gravar a parte tutorial
 
-Card:
-- `assets/news-cards/2026-04-22/midjourney-v81-card-9x16.png`
+1. mostrar a imagem-base do Midjourney
+2. mostrar o prompt original ou a descricao equivalente
+3. gerar no GPT Images com a mesma ideia
+4. abrir o suporte do Claude por 2 segundos para o plot twist tecnico
+5. voltar para voce e cravar o veredito
 
-### 46s-61s
+## Linguagem
 
-Fala:
-"E o Claude? O próprio suporte diz que ele não gera foto nem ilustração como essas ferramentas. Então ele entra melhor em pesquisa, raciocínio e roteiro."
-
-Tela:
-`Claude = pesquisa e roteiro`
-
-Card:
-- `assets/news-cards/2026-04-22/claude-no-image-card-9x16.png`
-
-### 61s-70s
-
-Fecho:
-"Hoje o benchmark mais útil é esse: ChatGPT para peça útil, Midjourney para imagem de impacto, Claude para pensar melhor o conteúdo."
-
-## Montagem
-
-- editar em blocos bem marcados, um por ferramenta
-- usar uma palavra grande por bloco
-- entrar com som de corte ou swipe entre as plataformas
-
-## Link com a realidade
-
-Conectar com a rotina de quem cria sozinho ou em equipe pequena e precisa decidir rapido qual ferramenta usar em cada etapa, sem romantizar stack nem entrar em fanbase de modelo.
+- leve ironia
+- tecnicidade sem pedantismo
+- honestidade sobre o limite do Claude
 
 ## Fontes
 
