@@ -7,3 +7,5 @@ Thumbs.db
 .env.*
 .idea/
 .vscode/
+edicao/premiere/*.prin
+edicao/premiere/setup-log.txt
